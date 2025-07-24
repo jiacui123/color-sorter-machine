@@ -5,7 +5,7 @@ In today’s fast-paced industrial world, efficiency, accuracy, and quality are 
 
 ## What is a Color Sorter Machine?
 A **[color sorter machine](https://www.jcsorter.com/product/intelligent-channel-type-color-sorter.html)** is an intelligent device that automatically detects and separates materials based on their color, shape, and texture using high-resolution cameras and sophisticated software. This equipment is indispensable for industries where product purity and consistency are critical, such as rice mills, nut processing plants, plastic recycling facilities, and even chemical and mineral processing.
-
+[![channel type color sorter](https://www.jcsorter.com/static/color-sorter/picture/product/mini/40.webp "channel type color sorter")](https://www.jcsorter.com/product/intelligent-channel-type-color-sorter.html)
 JiaCui Machinery takes this technology to the next level with its economic intelligent color sorting machines, which offer remarkable performance at competitive factory prices.
 
 ## Why Choose JiaCui’s Color Sorting Solutions?
